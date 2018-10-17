@@ -1,1 +1,3 @@
 acc is a bunch of trading tools for MT4 platform. 
+---
+project deprecated 2018-10-17
